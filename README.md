@@ -34,8 +34,8 @@ For example, `HELLO` with the key `KEY` encrypts to `RIJVS`.
 ## Setup & run
 
 ```bash
-git clone https://github.com/GianneAngely/uts-kriptografi-semester-4.git
-cd uts-kriptografi-semester-4
+git clone https://github.com/GianneAngely/UTS-kriptografi-semester-4.git
+cd UTS-kriptografi-semester-4
 python main.py
 ```
 
